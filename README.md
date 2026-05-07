@@ -189,6 +189,3 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-**Made with ❤️ by the MarketPulse Team**
